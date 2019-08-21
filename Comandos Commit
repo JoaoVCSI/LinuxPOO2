@@ -1,0 +1,19 @@
+Comitar no Git pelo Terminal
+
+Abrir o terminal na pasta do projeto e digitar:
+git status
+git add *
+git commit -m "comentario" 
+git push
+informar usuario e senha
+
+Clonar repositorio
+
+git clone https://github.com/alegume/html5.git
+
+
+**aula so**
+saida normal
+saida por erro
+saida por erro fatal
+saida por outro processo
